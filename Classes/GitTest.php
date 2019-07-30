@@ -26,6 +26,6 @@ class GitTest
     
     public function test()
     {
-        echo '8!';
+        echo '7!';
     }
 }
